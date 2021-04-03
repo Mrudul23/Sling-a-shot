@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  display:block;
+  margin-left: 5%;
+  border: 10px solid brown;
+  border-radius: 10%;
+}
+
+.heading{
+  font-size: 40px;
+  text-align: center;
+  font-family: cooper;
+  }
+
